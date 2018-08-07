@@ -1,7 +1,7 @@
 # Super-xito-sistema-de-inventarios-
 Aplicación de consola (.NET Framework) Visual C#. Practica realizada al compañero de curso Eduard Aristizabal.
 
-/*
+
 Planteamiento del problema:
 El Almacén Superéxito, requiere realizar una aplicación para llevar el control de su inventario 
 que contenga una interfaz gráfica de usuario que permita a través de opciones, registrar, eliminar
@@ -17,4 +17,4 @@ Realizado a: Eduard Fernando Aristizabal Giraldo
 Fecha: Diciembre de 2017
 Curso: Estructura de datos
 ===========================================================================================
-*/
+
