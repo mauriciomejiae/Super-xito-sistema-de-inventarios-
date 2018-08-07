@@ -1,0 +1,20 @@
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.exe.config
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.exe
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.pdb
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.frmIngresar.resources
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.exe
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.pdb
+C:\Users\Mauricio\Desktop\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.frmInventarios.resources
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.exe.config
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.exe
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\bin\Debug\PracticaEduardAristizabal.pdb
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.frmIngresar.resources
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.frmInventarios.resources
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.Properties.Resources.resources
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.csproj.GenerateResource.Cache
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.exe
+C:\Users\Mauricio M\Downloads\Proyectos C#\PracticaEduardAristizabal\PracticaEduardAristizabal\obj\Debug\PracticaEduardAristizabal.pdb
